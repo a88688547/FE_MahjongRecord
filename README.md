@@ -53,3 +53,4 @@ To manually run the linter or formatter, you can use the following npm scripts:
 
 - `pnpm run lint`: Runs ESLint on your code.
 - `pnpm run format`: Formats your code using Prettier.
+# FE_MahjongRecord
